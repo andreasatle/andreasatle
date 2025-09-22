@@ -1,16 +1,28 @@
-- 👋 Hi, I’m @andreasatle
-- 👀 I’m interested in all things computing and math.
-- 🌱 The last couple of years I have come to appreciate the golang language. It's a very nice language to work with. Many things are very elegant. It eats quite a bit of memory though, with GC and all.
-- 🌱 I’m currently learning the Rust programming language, which seem to us about half the memory as golang for the same algorithms. Gosh the compiler is very picky with how you write the code. That is a good thing though, since you can be more safe if you take care of many checks in compile time.
-- 🌱 Lucky me that I'm not a javascript programmer, with a garbage in garbage out culture. It is quite handy though, to not crash your internet-pages, by some type error. It would be very hard to approach Rust coming from js.
-- 🌱 I also like python, even though it also endorse the garbage in garbage out culture. Even with the type-hinting, the interpreter doesn't seem to care about it. At least it is good to document the types so that the user understands the intended use-case.
-- 🌱 It is quite interesting to compare different languages on e.g. LeetCode. All of a sudden I have solved more than 300 problems on LeetCode. I also managed to solve all daily problems the entire month of April this year. Let be that I was late one day, but still...
-- 🌱 I recently started to use the cite exercism.io to write some easy stardard algorithms is (currently) 4 different languages, go, python, rust and javascript (node.js).
-- 🌱 The last two years, I have been rather obseesed with the Euler project, which is a site for solving math-problems using computer algorithms. I have solved 160 problems out of about 750, and they are getting increasingly harder to solve.
-- 💞️ I’m looking to collaborate on anything, since I'm looking for a job.
-- 📫 How to reach me: atle.andreas@gmail.com
+# 👋 Hi, I’m Andreas Atle (@andreasatle)
 
-<!---
-andreasatle/andreasatle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m an **AI/ML Engineer** with a background in **Applied Mathematics (Ph.D.)** and over 15 years of experience building high-performance algorithms. My current focus is on **Large Language Models (LLMs)**, **agentic AI systems**, and **GPU-accelerated computing**.
+
+## 🔭 What I’m working on
+- Designing **agentic workflows** with the OpenAI Agent SDK and Pydantic for large-scale document extraction and validation.  
+- Building **RAG pipelines** with embeddings (ChromaDB, Hugging Face, OpenAI) for legal and financial data search.  
+- Exploring **GPU computing on Apple Silicon** — recently implemented a **Mandelbrot solver in Swift + Metal**.  
+- Continuing to refine my skills across languages: Python, Go, Swift, Zig, Rust, and C++.
+
+## 💡 Interests
+- Large Language Models (LLMs), embeddings, and multi-agent AI systems.  
+- GPU acceleration with **CUDA, Metal, OpenCL**.  
+- Advanced numerical algorithms, scientific computing, and fractals.  
+- Comparing programming languages through LeetCode, Project Euler, and Exercism challenges.  
+
+## 📚 Background
+- Ph.D. in Applied Mathematics (Stockholm University).  
+- Former **Research Scientist at Total E&P USA** (seismic imaging, HPC, CUDA).  
+- **Software Developer at Spectacle LLC** (deployed ML models to production on AWS/Kubernetes).  
+
+## 🤝 Collaboration
+I’m always open to collaborating on **LLM applications, GPU/AI workflows, and open-source projects**.  
+
+## 📫 How to reach me
+- Email: [atle.andreas@gmail.com](mailto:atle.andreas@gmail.com)  
+- LinkedIn: [linkedin.com/in/andreasatle](https://linkedin.com/in/andreasatle)  
+- GitHub: [github.com/andreasatle](https://github.com/andreasatle)  
